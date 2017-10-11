@@ -6,6 +6,6 @@ require './config/database'
 
 class App < Sinatra::Base
   get '/' do
-    'Hello world!'
+    'ChatBot Hello world!'
   end
 end
